@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">QuizApp</string>
+    <string name="title_question">Welcome to Quiz App!\n\nPlease answer the following question related to logical fallacy\n</string>
+    <string name="q_1">Today late for ten minutes, tomorrow late for an hour, and then someday you will simply cease to show up</string>
+    <string name="opt_q_1_1">Red Herring</string>
+    <string name="opt_q_1_2">Slippery slope</string>
+    <string name="opt_q_1_3">Non sequitur</string>
+    <string name="opt_q_1_4">None of the above</string>
+    <string name="q_2">One  declares that a teapot is, at this very moment, in orbit around the Sun between the Earth and Mars, and that because no one can prove him wrong, his claim is therefore a valid one.</string>
+    <string name="opt_q_2_1">Burden of Proof</string>
+    <string name="opt_q_2_2">Strawman</string>
+    <string name="opt_q_2_3">Black or White</string>
+    <string name="opt_q_2_4">None of the above</string>
+    <string name="q_3">What is/are the example of False Dilemma?</string>
+    <string name="opt_q_3_1">\"You either with me or against me\"</string>
+    <string name="opt_q_3_2">\"Iraq is another quagmire, just like Vietnam\"</string>
+    <string name="opt_q_3_3">\"She loves me; she loves me not\"</string>
+    <string name="opt_q_3_4">None of the above</string>
+    <string name="q_4">\"If we legalize gay marriage, next people will want to legalize polygamy\" is/are the example of?</string>
+    <string name="opt_q_4_1">False cause</string>
+    <string name="opt_q_4_2">False analogy</string>
+    <string name="opt_q_4_3">Slippery slope</string>
+    <string name="opt_q_4_4">None of the above</string>
+    <string name="q_5">What is the fallacy name of \"Everyone's voting for Jokowi, he is definitely the best president candidate\"</string>
+    <string name="q_6">\"We should move to the midwest because the Wall Street Journal says the cost of living is cheaper there\" is fallacy name of Appeal to ...</string>
 </resources>
